@@ -1,0 +1,23 @@
+{
+  "name": "generator-simian-wordpress",
+  "version": "1.0.0",
+  "description": "Yeoman generator for Simian's WordPress sites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Nicolás Saiz",
+  "license": "ISC",
+  "dependencies": {
+    "command-exists": "^1.2.2",
+    "download-file": "^0.1.5",
+    "node-cmd": "^3.0.0",
+    "yeoman-generator": "^1.1.1"
+  },
+  "files": [
+    "app"
+  ]
+}
